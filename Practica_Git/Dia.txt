@@ -5,3 +5,6 @@ Jueves
 Viernes
 Sabado 
 Domingo
+Lunes
+Martes
+
